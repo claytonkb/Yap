@@ -1,0 +1,88 @@
+- 
+    title: "New Year's Day"
+    day: Jan 1 2013
+    recurrence: annual
+    notice: week
+
+- 
+    title: "President's Day"
+    day: Feb 18 2013
+    notice: week
+
+- 
+    title: "Memorial Day"
+    day: May 27 2013
+    notice: week
+
+- 
+    title: "Independence Day"
+    day: Jul 4
+    recurrence: annual
+    notice: week
+
+- 
+    title: "Labor Day"
+    day: Sep 2 2013
+    notice: week
+
+- 
+    title: "Thanskgiving Day"
+    day: Nov 28 2013
+    notice: week
+
+- 
+    title: "Christmas Day vacation"
+    day: Dec 25
+    recurrence: annual
+    notice: week
+
+- 
+    title: "MLK Jr. Day"
+    day: Jan 21 2013
+    notice: day
+
+- 
+    title: "Valentine's Day"
+    day: Feb 14
+    recurrence: annual
+    notice: week
+
+- 
+    title: "Easter Sunday"
+    day: Mar 31 2013
+    notice: week
+
+- 
+    title: "Mother's Day"
+    day: May 12 2013
+    notice: week
+
+- 
+    title: "Father's Day"
+    day: Jun 16 2013
+    notice: week
+
+- 
+    title: "Columbus Day"
+    day: Oct 14 2013
+    notice: week
+
+- 
+    title: "Halloween"
+    day: Oct 31
+    recurrence: annual
+    notice: week
+
+- 
+    title: "Veterans Day"
+    day: Nov 11 2013
+    notice: week
+
+- 
+    title: "New Year's Eve"
+    day: Dec 31
+    recurrence: annual
+    notice: week
+
+---
+
